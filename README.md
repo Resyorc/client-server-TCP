@@ -1,4 +1,6 @@
 # Laporan: Sistem Klien-Server dengan Socket TCP
+## Nama : Ferry Oktariansyah
+## NIM  : 1203220006
 
 ## Pendahuluan
 Dokumen ini akan menjelaskan tentang sistem klien-server yang menggunakan socket TCP untuk komunikasi. Terdiri dari dua bagian utama, yaitu sisi server dan sisi klien. Tujuan utamanya adalah memungkinkan klien untuk berkomunikasi dengan server dan berinteraksi dengan sistem file server.
